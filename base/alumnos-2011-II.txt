@@ -1,0 +1,36 @@
+Universidad de Antioquia			
+Admisiones y Registro			
+Fecha: 26/07/2011 06:23 am			
+LISTADO DE ALUMNOS			
+			
+Profesor(a): JOHN FREDDY DUITAMA MUÑOZ			
+Semestre: 20112			
+Materia: [2508584] BASES DE DATOS			
+Grupo: 1			
+			
+#	Cédula	Nombre	Email
+1	1066180331	Álvarez Barrios Luis Fernando	luisfm20@gmail.com
+2	1128276642	Arroyave Villegas Daniel Andrés	arroz112006@hotmail.com
+3	3484909	Bran Cartagena José Alfredo	brand911@gmail.com
+4	1035224673	Cañas Cifuentes Yuliana	yucaci24@gmail.com
+5	1036934977	Cardona Patiño Juan Esteban	juanescardona@gmail.com
+6	1038098543	Cardozo Molina Yamit Alfonso	yosema1986@gmail.com
+7	71788784	Castro Pérez Andrés	andrec230@gmail.com
+8	1036625435	García Gómez Jeison Alejandro	jeison550@hotmail.com
+9	8355991	Jaramillo Rivas Dorian Alexánder	doaljari@gmail.com
+10	1128451979	López Ríos Jhony Alexánder	jhony.617@hotmail.com
+11	98714595	Marín Cano Ovidio Andrés	andrecitopues@hotmail.com
+12	1128436444	Montoya Hincapié Patricia	tr3s_de_corazon@hotmail.com
+13	1040736266	Montoya Londoño Jesús David	jdml645@gmail.com
+14	71758857	Moreno Ledezma Luis Carlos	lcledezma@yahoo.com
+15	1017175384	Palacio López Ana María	maryannpalaci@gmail.com
+16	1026137861	Pineda Montoya Elvis David	crudoycorrosivo@hotmail.com
+17	1026142336	Pineda Rubio Ricardo	riquichy@gmail.com
+18	1039448915	Restrepo Montoya Andrea Carolina	andreitarpo88@hotmail.com
+19	1044100844	Restrepo Montoya Leidy Johana	leydyta11@hotmail.com
+20	8102006	Restrepo Mora Óscar Jhonny	sabugo26@yahoo.com
+21	1152437586	Ríos Salazar Jeyckson Alexánder	jeyjey301190@gmail.com
+22	1066180312	Salgado Naranjo Juan Carlos	juancarlossa-22@hotmail.com
+23	1035856305	Silva Saldarriaga Sergio Daniel	sdanielsilvas@hotmail.com
+24	1152189829	Tapias Vanegas Sneider	enetapias507@gmail.com
+25	1077442253	Valoyes Palacios Evans René	razefamily9@gmail.com

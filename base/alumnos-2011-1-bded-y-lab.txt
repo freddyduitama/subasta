@@ -1,0 +1,15 @@
+Universidad de Antioquia			
+Admisiones y Registro			
+Fecha: 10/02/2011 06:41 am			
+LISTADO DE ALUMNOS			
+			
+Profesor(a): JOHN FREDDY DUITAMA MUÑOZ			
+Semestre: 20111			
+Materia: [2554525] BASES DE DATOS Y LABORATO			
+Grupo: 1			
+			
+#	Cédula	Nombre	Email
+1	43561464	Chica Monsalve Astrid Elena	aechica22@gmail.com
+2	38670896	García Vanegas Claudia Liliana	claulilig@gmail.com
+3	1042060116	Grajales Toro Sandro	sandro.master17@gmail.com
+4	98703859	Rengifo Rengifo Willmar	willmar_r2008@hotmail.com

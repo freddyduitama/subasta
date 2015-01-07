@@ -1,0 +1,16 @@
+Universidad de Antioquia			
+Admisiones y Registro			
+Fecha: 18/09/2012 06:11 am			
+LISTADO DE ALUMNOS			
+
+Profesor(a): JOHN FREDDY DUITAMA MUÑOZ			
+Semestre: 20122			
+Materia: [2508584] BASES DE DATOS			
+Grupo: 1			
+
+#	Cédula	Nombre	Email
+1	1017153656	Caro Hinestroza Edwar Alberto	spektrumrock@gmail.com
+2	1001233555	Moná Monsalve Sergio Andrés	samrktmw89@gmail.com
+3	1078918043	Mosquera Lemus Fredy	fredy.mosqueral@gmail.com
+4	98773545	Ossa Tabares Esteban Alejandro	alejo.ossa@gmail.com
+5	1102835284	Velásquez Gómez Luis Enrique	usaf-x35@hotmail.com

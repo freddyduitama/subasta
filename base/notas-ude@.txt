@@ -1,0 +1,23 @@
+Universidad de Antioquia											
+Admisiones y Registro											
+Fecha: 09/12/2009 07:04 pm											
+NOTAS DEL GRUPO											
+											
+Semestre: 20092											
+Materia: [2554584] Bases de Datos											
+Grupo: 1											
+Tipo de Evaluación: CUANTITATIVO											
+											
+Las notas definitivas con * son correcciones hechas a la nota final. Las evaluaciones con ** faltan por confirmar.											
+											
+PEN: Pendiente, APR: Aprobado, REP: Reprobado, SIN: Sin Nota											
+											
+Cédula	Eval #1 [5%]	Eval #2 [5%]	Eval #3 [10%]	Eval #4 [5%]	Eval #5 [20%]	Eval #6 [5%]	Eval #7 [20%]	Eval #8 [20%]	Eval #9** [10%]	ACUM	DEF
+42693094	3.5	4.3	3.6	4.1	3.5	5.0	2.0	1.0	1.0	2.6	
+41945656	2.5	4.5	1.5	2.1	3.2	5.0	2.0	4.0	1.0	2.8	
+3141303	4.5	3.6	4.3	4.2	2.7	5.0	2.0	3.5	1.0	3.0	
+1020411837	3.0	2.3	2.0	3.4	3.2	5.0	2.0	4.0	5.0	3.2	
+43584314	4.0	2.8	3.7	4.5	4.2	5.0	2.5	1.0	1.0	2.8	
+43606138	4.0	3.5	3.6	4.0	4.2	5.0	2.5	1.0	1.0	2.8	
+15384541	3.2	4.6	2.8	1.3	2.7	5.0	2.0	3.5	4.0	3.0	
+15388161	2.4	3.8	3.3	3.7	3.5	5.0	2.0	1.0	1.0	2.5	

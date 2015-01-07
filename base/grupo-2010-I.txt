@@ -1,0 +1,41 @@
+Universidad de Antioquia			
+Admisiones y Registro			
+Fecha: 26/05/2010 09:00 am			
+LISTADO DE ALUMNOS			
+			
+Profesor(a): JOHN FREDDY DUITAMA MUÑOZ			
+Semestre: 20101			
+Materia: [2508584] BASES DE DATOS			
+Grupo: 1			
+			
+#	Cédula	Nombre	Email
+1	1026132222	Arango Betancur Juan Camilo	camiloarangob@hotmail.com
+2	1017150068	Arismendi Gómez José Alejandro	jarismendigomez@yahoo.com.mx
+3	98466896	Arroyave Quintero Ferney De Jesús	faq.sau@gmail.com
+4	3594155	Baena Vélez Ánderson Alberto	andersonbaena25@gmail.com
+5	71377873	Cano Gómez Mauricio Andrés	mandresgo@hotmail.com
+6	1020419396	Cardona Mejía Marlon Orlando	c7marlon@gmail.com
+7	1020416642	Carmona Tapias John Jairo	jjcarmonatapias@gmail.com
+8	1128422444	Escobar Gómez Sigifredo	sigifredo89@gmail.com
+9	8356509	Galeano Bermúdez Víctor Hugo	victorhugogaleano@hotmail.com
+10	1039448771	Henao Velásquez Arley	arleyhenao@gmail.com
+11	98708872	Jaramillo Ospina Jaime Alonso	jaime_aj@hotmail.com
+12	1128428028	Jurado Molina Ana María	aglaya89@gmail.com
+13	8106091	Loaiza Herrera Héctor Mario	hmloaiza@yahoo.es
+14	1020412135	Lozada García Diana Marcela	adimaloga@gmail.com
+15	1128419476	Molina Muñoz Arlex Mauricio	darlexx09@hotmail.com
+16	3664318	Mora Mesa Oscar Antonio	oscaranmo@gmail.com
+17	98554330	Muñoz Acevedo César Augusto	cesarmu@hotmail.com
+18	1017183206	Osorio Sepúlveda Jhon Arley	mechasbebe@hotmail.com
+19	1036613593	Puerta Quiroz Nelson David	nelsonn1000@hotmail.com
+20	71526811	Rojas Martínez Daniel Felipe	rolen2@hotmail.com
+21	1128465837	Ruiz Echavarría Alejandro	arealejandro@hotmail.com
+22	1077444583	Salazar Romaña César Augusto	ceausarro@hotmail.com
+23	71363768	Sánchez Sánchez Andrés Felipe	sanchez.andresfelipe@gmail.com
+24	1037044320	Velásquez Pino Carlos Mario	camavep2005@gmail.com
+25	1128396011	Vivas Reyes Freddy Alexánder	falexvr@gmail.com
+26	1128281209	Vásquez Franco Esteban	sir_evf@hotmail.com
+27	1037601889	Yepes Palacio Daniel Esteban	yepesk8r@gmail.com
+28	1035420638	Zapata Arroyave Daniela	dazapata1989@hotmail.com
+29	1128470842	Zapata Zapata Julián Camilo	kmilokt@hotmail.com
+30	1026132779	Álvarez Correa Angie Alejandra	angieal0406@hotmail.com

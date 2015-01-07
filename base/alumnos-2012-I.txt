@@ -1,0 +1,19 @@
+Universidad de Antioquia			
+Admisiones y Registro			
+Fecha: 15/05/2012 06:33 am			
+LISTADO DE ALUMNOS			
+
+Profesor(a): JOHN FREDDY DUITAMA MUÑOZ			
+Semestre: 20121			
+Materia: [2508584] BASES DE DATOS			
+Grupo: 1			
+
+#	Cédula	Nombre	Email
+1	1035224673	Cañas Cifuentes Yuliana	yucaci24@gmail.com
+2	1128267624	García Córdoba Mateo	mateo1235@gmail.com
+3	8355991	Jaramillo Rivas Dorian Alexánder	doaljari@gmail.com
+4	98764571	Marín Velásquez Luis Felipe	lfelipe.marin@gmail.com
+5	71758857	Moreno Ledezma Luis Carlos	lcledezma@yahoo.com
+6	1036931221	Ortiz Gallego Andrés Mauricio	andres22216@gmail.com
+7	8102006	Restrepo Mora Óscar Jhonny	sabugo26@yahoo.com
+8	1037605687	Zuluaga Carvajal Juliana	juzcarvajal@gmail.com

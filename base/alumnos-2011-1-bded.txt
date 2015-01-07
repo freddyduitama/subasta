@@ -1,0 +1,43 @@
+Universidad de Antioquia			
+Admisiones y Registro			
+Fecha: 10/02/2011 06:40 am			
+LISTADO DE ALUMNOS			
+			
+Profesor(a): JOHN FREDDY DUITAMA MUÑOZ			
+Semestre: 20111			
+Materia: [2508584] BASES DE DATOS			
+Grupo: 1			
+			
+#	Cédula	Nombre	Email
+1	1128399038	Agudelo Ibarra Santiago	santip176@hotmail.com
+2	1102842460	Álvarez Martínez Carlos Enrique	electricboy15@hotmail.com
+3	1020423782	Bedoya Alzate Andrés Felipe	pipe-1605@hotmail.com
+4	1036623749	Cardona Restrepo Juan Camilo	jcamilocardona@hotmail.com
+5	1094902207	Castillo Ramírez Ana Lucía	anlucara25@hotmail.com
+6	71763957	Duque Alzate Eulises Antonio	eulisesduque@gmail.com
+7	1036620459	Estrada Acevedo Francisco Javier	estradakiko@hotmail.com
+8	8175171	Flórez Zapata Jaime Alberto	betoskap@hotmail.com
+9	1035421260	García Hernández José Luis	publiventasmen@gmail.com
+10	43271004	Giraldo González Liliana María	liliana.gir@gmail.com
+11	98764038	Gómez Toro Juan Felipe	jpipegt@gmail.com
+12	1036637420	Gracia Granados Marlon Efrain	marlonhxh@hotmail.com
+13	71294739	Jaramillo Jiménez Juan Sebastián	el.sebas.salsa@gmail.com
+14	8355991	Jaramillo Rivas Dorian Alexánder	doaljari@gmail.com
+15	98714595	Marín Cano Ovidio Andrés	andrecitopues@hotmail.com
+16	1037600878	Martínez Cañola Juan Pablo	jpablo_mart@hotmail.com
+17	1020434561	Medina Gómez Jonathan	jmdoscaras@hotmail.com
+18	98554330	Muñoz Acevedo César Augusto	cesarmu@hotmail.com
+19	1048015562	Palacio Duque Édgar Alejandro	apd.19.07@gmail.com
+20	1017150333	Palacio Puerta Natalia	natipala21p@hotmail.com
+21	1020441334	Pérez Castrillón Laura Vanessa	lauravanessap@gmail.com
+22	1037579781	Piedrahíta Montoya Juan Esteban	juanes.piedrahita@gmail.com
+23	71228135	Ramírez Tobón Juan David	n_web1@hotmail.com
+24	8102006	Restrepo Mora Óscar Jhonny	sabugo26@yahoo.com
+25	1128400072	Restrepo Úsuga Sara Lucía	sara.rpo@gmail.com
+26	1128426129	Roldán Pérez Jhony Alberto	johnyarp@hotmail.com
+27	1017159532	Salazar Higuita Laura Katherine	salazarlaura@live.com
+28	1037618765	Suárez García Juan Alejandro	androres92@gmail.com
+29	1128395518	Tobón Cabrera Santiago	santobon0723@gmail.com
+30	15389173	Valencia López Mario Alejandro	alejoxx2@hotmail.com
+31	1128281209	Vásquez Franco Esteban	sir_evf@hotmail.com
+32	1020441154	Villada Marín Alejandro Esteban	alejo_villada@hotmail.com
